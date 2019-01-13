@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="616" viewBox="0 0 350 616">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="350" height="616" transform="translate(25 51)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="abstract-background" transform="translate(-25 -51)" clip-path="url(#clip-path)">
+    <g id="abstract-background-2" data-name="abstract-background" transform="translate(-401.238 113.119) rotate(-7)" opacity="0.521">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="27.196" cy="27.196" r="27.196" transform="matrix(0.966, -0.259, 0.259, 0.966, 423.275, 83.252)" fill="#2d7fec" opacity="0.1"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="27.196" cy="27.196" r="27.196" transform="matrix(0.966, -0.259, 0.259, 0.966, 365.209, 477.273)" fill="#2d7fec" opacity="0.1"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="15.696" cy="15.696" r="15.696" transform="matrix(0.966, -0.259, 0.259, 0.966, 688.96, 31.405)" fill="#2d7fec" opacity="0.1"/>
+      <path id="Path_6" data-name="Path 6" d="M355.827,74.813S345.255,71.126,301.1,52.7,213.19,13.875,165.835,4.115C135.353-2.165,100.5-3.057,75.934,14.5,52.264,31.424,44.626,60.555,40.545,87.609c-3.091,20.362-4.907,41.788,3.556,60.844,5.874,13.234,16.31,24.353,23.528,37.024,25.111,44.1,7.36,98.484-19.851,141.54-12.754,20.2-27.564,39.463-37.414,60.965s-14.427,46.14-5.829,68.077c8.538,21.757,28.892,38.067,50.941,49.516,44.782,23.325,108.588,43.872,108.588,43.872Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 403.807, 158.842)" fill="#2d7fec" opacity="0.1"/>
+    </g>
+  </g>
+</svg>
