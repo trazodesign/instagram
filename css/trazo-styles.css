@@ -119,8 +119,8 @@ body {
 .social {
     padding: 0 20px;
     opacity: 0;
-    -webkit-animation: social .3s ease-in-out 1.3s;
-            animation: social .3s ease-in-out 1.3s;
+    -webkit-animation: social .3s ease-in-out 0.9s;
+            animation: social .3s ease-in-out 0.9s;
     -webkit-animation-fill-mode: forwards;
             animation-fill-mode: forwards;
     z-index: 4;
@@ -156,32 +156,32 @@ body {
 
 .links ul li:nth-of-type(2) {
     opacity: 0;
-    -webkit-animation: link-1 .3s ease-in-out .4s;
-            animation: link-1 .3s ease-in-out .4s;
+    -webkit-animation: link-1 .3s ease-in-out .3s;
+            animation: link-1 .3s ease-in-out .3s;
     -webkit-animation-fill-mode: forwards;
             animation-fill-mode: forwards
 }
 
 .links ul li:nth-of-type(3) {
     opacity: 0;
-    -webkit-animation: link-1 .3s ease-in-out .6s;
-            animation: link-1 .3s ease-in-out .6s;
+    -webkit-animation: link-1 .3s ease-in-out .4s;
+            animation: link-1 .3s ease-in-out .4s;
     -webkit-animation-fill-mode: forwards;
             animation-fill-mode: forwards
 }
 
 .links ul li:nth-of-type(4) {
     opacity: 0;
-    -webkit-animation: link-1 .3s ease-in-out .8s;
-            animation: link-1 .3s ease-in-out .8s;
+    -webkit-animation: link-1 .3s ease-in-out .5s;
+            animation: link-1 .3s ease-in-out .5s;
     -webkit-animation-fill-mode: forwards;
             animation-fill-mode: forwards
 }
 
 .links ul li:nth-of-type(5) {
     opacity: 0;
-    -webkit-animation: link-1 .3s ease-in-out 1s;
-            animation: link-1 .3s ease-in-out 1s;
+    -webkit-animation: link-1 .3s ease-in-out .6s;
+            animation: link-1 .3s ease-in-out .6s;
     -webkit-animation-fill-mode: forwards;
             animation-fill-mode: forwards
 }
