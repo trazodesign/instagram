@@ -385,3 +385,20 @@ body {
         height: 667px;
     }
 }
+
+@media (max-width: 320px) {
+    .logo img {
+        width: 40%;
+        height: auto;
+    }
+    .links ul li {
+        height: 45px;
+    }
+    .links ul li a {
+        font-size: 12px;
+    }
+    .social ul li a img {
+        width: 40px;
+        height: auto;
+    }
+}
